@@ -1,0 +1,70 @@
+/* Header */
+
+#cwheader {
+	background-image: none;
+	height: auto;
+}
+
+#cwheader .inner {
+	display: block;
+	background-image: none;
+	height: auto;
+}
+
+#cwheader .inner h1 {
+	margin: 0;
+	padding: 0;
+}
+
+#cwheader .inner h1 a {
+	display: block;
+	height: 101px;
+	width: 600px;
+}
+
+#cwheader .inner h1 a .text {
+	display: inline;
+}
+
+/* Footer */
+
+#cwfooter {
+	display: none;
+}
+
+/* Civil War breadcrumb trail */
+
+#cwbreadcrumb {
+	display: none;
+}
+
+#breadcrumbdiv {
+	display: none;
+}
+
+#popupbar {
+	display: none;
+}
+
+/* Content */
+
+#cwcontent h1,
+#cwcontent h2,
+#cwcontent p {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#cwcontent h1 {
+	font-style: italic;
+	font-size: 1.5em;
+	padding-left: 0;
+}
+
+#cwcontent p.toplink {
+	display: none;
+}
+
+#cwcontent p.writereport {
+	display: none;
+}
